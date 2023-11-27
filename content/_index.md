@@ -94,9 +94,9 @@ sections:
               * Worked on high fidelity quantum gate optimization using Deep Reinforcement Learning.
     design:
       columns: '2'
-  - block: markdown
+  - block: collection
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Honors & Awards
+    items:
+      - title: National Scholarship
 ---
