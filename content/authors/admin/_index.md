@@ -32,6 +32,11 @@ Contact Info:
   - shurui.li AT columbia DOT com
   - leisure0724 AT gmail DOT com
 
+interests:
+  - Privacy protection in LLM
+  - Multimodal LLM
+  - AI4Science in quantum physics
+
 # Education to show in About widget
 education:
   courses:
