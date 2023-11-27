@@ -9,10 +9,10 @@ main:
     weight: 10
   - name: Publications
     url: '#pub'
-    weight: 50
+    weight: 20
   - name: Professional
     url: '#professional'
-    weight: 50
+    weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
