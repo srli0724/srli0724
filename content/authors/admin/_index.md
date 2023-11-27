@@ -25,7 +25,7 @@ organizations:
     url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 Contact Info:
@@ -74,7 +74,7 @@ Welcome to Shurui's homepage!
 
 I'm a first year MS in Data Science student in the [DSI](https://datascience.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Before that, I recieved my bachelor's degree in Physics from [LPS](http://www.lps.ecnu.edu.cn/) at [East China Norma Univeristy](https://www.ecnu.edu.cn/), and I was glad to be advisored by Prof. [Weiping Zhang](https://www.physics.sjtu.edu.cn/jsml/zhangweiping.html) and Prof. [Jin Qian](https://faculty.ecnu.edu.cn/_s41/qj2/main.psp) there. I was also fortunate to have worked with Dr. [Naiyan Wang](https://winsty.net/) at TuSimple, Dr. [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/) and Dr. [Da Yu](https://dayu11.github.io/) at MSRA during my undergraduate study. 
 
-My research interests are privacy protection and multimodal in LLM, machine learning and AI4Science (especially with quantum and general physics). Please feel free to contatc with me if you have any interesting to work or collaborate with me!
+My research interests are privacy protection and multimodal in LLM, machine learning and AI4Science (especially with quantum and general physics). Please feel free to contatc with me if you have any interest to work or collaborate with me!
 
 I am open to a Ph.D. Candidate position for 2025 Spring or 2025 Fall entrance at Beijing, Hong Kong, Singapore or Tokyo. 
 {style="text-align: justify;"}
