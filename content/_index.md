@@ -50,7 +50,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
-    -id: professional
+    id: professional
     content:
       title: Professional Experience
       # Date format for experience
