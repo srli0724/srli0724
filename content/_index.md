@@ -50,7 +50,7 @@ sections:
       view: citation
   - block: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -60,26 +60,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Intern
+          company: Microsoft Research Asia
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          # company_logo: org-gc
+          location: Beijing, China
+          date_start: '2023-03-01'
+          date_end: '2023-07-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Advisor: Dr. [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), Dr. [Da Yu](https://dayu11.github.io/)
+              * Worked on privacy adversial attack and protection on LLM like GPT-Neo.
+        - title: Algorithm Research Intern
+          company: TuSimple
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          # company_logo: org-x
+          location: Beijing, China
+          date_start: '2022-07-01'
+          date_end: '2023-02-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
