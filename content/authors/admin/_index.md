@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: shurui.li@columbia.edu
+    link: mailto:shurui.li@columbia.edu
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=YUGVK4YAAAAJ&hl=en
