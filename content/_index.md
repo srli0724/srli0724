@@ -94,13 +94,49 @@ sections:
               * Worked on high fidelity quantum gate optimization using Deep Reinforcement Learning.
     design:
       columns: '2'
+
+  - block: experience
+    id: research
+    content:
+      title: Research Experience
+      date_format: Jan 2006
+      items:
+        - title: Oxford University & Hong Kong University
+          company: Research Assistant
+          company_url: ''
+          # company_logo: microsoft
+          location: Remote
+          date_start: '2021-03-01'
+          date_end: '2021-10-01'
+          description: |2-
+              * Advisor: Prof. [Yuxiang Yang](https://yangyx09.github.io/), Prof. [Giulio Chiribella](https://qici.weebly.com/)
+              * Worked on quantum resource theory in quantum fourier algorithm.
+        - title: East China Normal Univeristy & Shanghai Jiao Tong University 
+          company: Research Assistant
+          company_url: ''
+          # company_logo: org-x
+          location: Shanghai, China
+          date_start: '2020-07-01'
+          date_end: '2022-04-01'
+          description: |2-
+              * Advisor: Prof. [Jin Qian](https://faculty.ecnu.edu.cn/_s41/qj2/main.psp), Prof. [Weiping Zhang](https://www.physics.sjtu.edu.cn/jsml/zhangweiping.html)
+              * Worked on Rydberg quantum gate, machine learning and AI4Science.
+    design:
+      columns: '2'
+
   - block: markdown
+    id: award
     content:
       title: Honors & Awards
       text: |2-
-        * National Scholarship, 2021
-        * East China Normal University Presidential Scholarship, 2022
-        * East China Normal University Special Scholarship, 2022
+        * National Scholarship (1%), 2020
+        * East China Normal University Presidential Scholarship (10/3600), 2022
+        * Shanghai Excellent Graduate (Top 1), 2022
+        * East China Normal University Special Scholarship (1%), 2021
+        * The Chinese Mathematics Competitions National Second Prize, 2019, 2020
+        * East China Normal University Merit Student, 2019, 2020, 2021
+        * East China Normal University Metrit Student Cadres, 2019, 2020, 2021
+        * China Undergraduate Mathematical Contest in Modeling Second Prize, 2019
     design:
       columns: '2'
 ---
