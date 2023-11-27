@@ -63,7 +63,7 @@ sections:
         - title: Microsoft Research Asia
           company: Research Intern
           company_url: ''
-          company_logo: microsoft
+          company_logo: org-microsoft
           location: Beijing, China
           date_start: '2023-03-01'
           date_end: '2023-07-01'
