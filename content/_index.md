@@ -60,8 +60,8 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern
-          company: Microsoft Research Asia
+        - title: Microsoft Research Asia
+          company: Research Intern
           company_url: ''
           # company_logo: org-gc
           location: Beijing, China
@@ -69,15 +69,27 @@ sections:
           date_end: '2023-07-01'
           description: |2-
               * Advisor: Dr. [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), Dr. [Da Yu](https://dayu11.github.io/)
-              * Worked on privacy adversial attack and protection on LLM like GPT-Neo.
-        - title: Algorithm Research Intern
-          company: TuSimple
+              * Worked on privacy adversial attack and protection on LLM like GPT family.
+        - title: TuSimple
+          company: Algorithm Research Intern
           company_url: ''
           # company_logo: org-x
           location: Beijing, China
           date_start: '2022-07-01'
           date_end: '2023-02-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              * Advisor: Dr. [Naiyan Wang](https://winsty.net/)
+              * Worked on SE-3 invariant and equivariant multimodal joint self-driving scenario prediction.
+          - title: Tencent
+          company: Research Intern
+          company_url: ''
+          # company_logo: org-x
+          location: Shenzhen, China
+          date_start: '2021-07-01'
+          date_end: '2021-11-01'
+          description: |2-
+              * Advisor: Prof. [Yu Zhou](https://faculty.hitsz.edu.cn/recgardening?eqid=aa9c96a4001c05b4000000066463a165), Prof. [Shengyu Zhang](http://www.cse.cuhk.edu.hk/~syzhang)
+              * Worked on high fidelity quantum gate optimization using Deep Reinforcement Learning.
     design:
       columns: '2'
   - block: accomplishments
