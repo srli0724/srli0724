@@ -80,7 +80,7 @@ sections:
           description: |2-
               * Advisor: Dr. [Naiyan Wang](https://winsty.net/)
               * Worked on SE-3 invariant and equivariant multimodal joint self-driving scenario prediction.
-          - title: Tencent
+        - title: Tencent
           company: Research Intern
           company_url: ''
           # company_logo: org-x
