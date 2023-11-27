@@ -179,9 +179,4 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
 ---
