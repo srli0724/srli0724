@@ -96,9 +96,11 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Honors & Awards
+      text: |2-
+        * National Scholarship, 2021
+        * East China Normal University Presidential Scholarship, 2022
+        * East China Normal University Special Scholarship, 2022
     design:
       columns: '2'
 ---
