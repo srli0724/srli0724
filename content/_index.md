@@ -63,7 +63,7 @@ sections:
         - title: Microsoft Research Asia
           company: Research Intern
           company_url: ''
-          company_logo: org-microsoft
+          # company_logo: org-microsoft
           location: Beijing, China
           date_start: '2023-03-01'
           date_end: '2023-07-01'
@@ -95,7 +95,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards & \nHonors'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
