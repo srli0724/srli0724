@@ -75,11 +75,11 @@ social:
 highlight_name: true
 ---
 
-Welcome to Shurui's homepage! I am open to a Ph.D. Candidate position for 2025 Spring or 2025 Fall entrance at Beijing, Hong Kong, Singapore or Tokyo. 
+Welcome to Shurui's homepage! I am open to a Ph.D. candidate position for the Spring or Fall entrance of 2025 in Beijing, Hong Kong, Singapore, or Tokyo
 
-I'm a first year MS in Data Science student in the [DSI](https://datascience.columbia.edu/) at [Columbia University](https://www.columbia.edu/). Before that, I recieved my bachelor's degree in Physics from [LPS](http://www.lps.ecnu.edu.cn/) at [East China Norma Univeristy](https://www.ecnu.edu.cn/) with ranking 1/91, and I was glad to be advisored by Prof. [Weiping Zhang](https://www.physics.sjtu.edu.cn/jsml/zhangweiping.html) and Prof. [Jin Qian](https://faculty.ecnu.edu.cn/_s41/qj2/main.psp) there. I was also fortunate to have worked with Dr. [Naiyan Wang](https://winsty.net/) at TuSimple, Dr. [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/) and Dr. [Da Yu](https://dayu11.github.io/) at MSRA during my undergraduate study. 
+I'm a first-year MS in Data Science student at [DSI](https://datascience.columbia.edu/) of [Columbia University](https://www.columbia.edu/). Before that, I received my bachelor's degree in Physics from [LPS](http://www.lps.ecnu.edu.cn/) at [East China Norma Univeristy](https://www.ecnu.edu.cn/) with a ranking 1/91. I had the privilege of being advised by Prof. [Weiping Zhang](https://www.physics.sjtu.edu.cn/jsml/zhangweiping.html) and Prof. [Jin Qian](https://faculty.ecnu.edu.cn/_s41/qj2/main.psp) there. I had valuable experiences working with [Naiyan Wang](https://winsty.net/) at TuSimple, with Dr. [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/) and Dr. [Da Yu](https://dayu11.github.io/) at MSRA during my undergraduate study. 
 
-My research interests are privacy protection and multimodal in LLM, machine learning and AI4Science (especially with quantum and general physics). Please feel free to contatc with me if you have any interest to work or collaborate with me!
+My research interests encompass privacy protection and multimodal LLM, machine learning and AI4Science, particularly in quantum and general physics. Please feel free to contact me if you are interested in potential collaboration or work opportunities!
 
 
 {style="text-align: justify;"}

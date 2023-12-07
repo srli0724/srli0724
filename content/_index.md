@@ -144,10 +144,9 @@ sections:
     content:
       title: Miscellaneous
       text: |2-
-        * I am a big fan of football (Barcelona). I was the captain of the football team at Physics@ECNU for 3 years. We have won 1 Champion, 1 Runner-up and stepped into 2 other times Semi-finals in 4 years' university league. I play as a middlefield (CM or CAM), sometimes I could play LW to guest. I am good at through pass and free-kick.
+        * I am a big fan of football (Barcelona). I had the honor of captaining football team at Physics@ECNU for 3 years. In my four years University League , we achieved one Championship, one Runner-up, and twice another semi-finals. I play as a middlefield (CM or CAM), sometimes I could play LW to guest. I am good at through pass and free-kick.
 
-
-        * In my spare time, I like trip -- I have visited 26/34 provinces of China. Also, I love games like COD and Genshin.
+        * In my spare time, I enjoy traveling; I have explored 26 out of 34 provinces in China. Additionally, I have a passion for gaming, particularly titles like Call of Duty (COD), Paradox Interactive, Souls-like,  and Genshin Impact.
     design:
       columns: '2'
 
